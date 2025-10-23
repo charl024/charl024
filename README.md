@@ -4,4 +4,6 @@ Hi! I'm Charles, a developer passionate about GPU programming, embedded systems,
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=charl024&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+Most of my work isn’t publicly available due to project constraints and confidentiality.
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
