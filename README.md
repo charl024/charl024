@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi! I'm Charles, a developer passionate about GPU programming, embedded systems, and high-performance computing.<br><br>Most of my work revolves around building real-time systems, whether it be accelerated image processing pipelines in CUDA or exploring new ways to speed up my programs.<br><br>On the side, I enjoy working with microcontrollers and hardware components to build custom keyboards, from circuit board design to custom firmware development. 
 
 Some of my work remains private due to project constraints and confidentiality.
