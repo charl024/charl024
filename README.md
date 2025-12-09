@@ -1,2 +1,2 @@
 # About Me:
-Hi! I'm Charles, a developer passionate about GPU programming, embedded systems, and high-performance computing.<br><br>Most of my work revolves around building real-time systems, whether it be accelerated image processing pipelines or programming SoCs.<br><br>On the side, I enjoy working with microcontrollers and hardware components to build custom keyboards, from circuit board design to custom firmware development. 
+Hi! I'm Charles, a developer passionate about GPU programming, embedded systems, and HPC<br><br>Most of my work revolves these topics, like accelerated image processing pipelines or programming SoCs.<br><br>On the side, I enjoy working with microcontrollers and writing firmware for my custom mechanical keyboards.
